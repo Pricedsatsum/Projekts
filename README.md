@@ -1,2 +1,2 @@
-# Projekts
-Šis ir Māra un Emīla programmēšanas projekts.
+# Programmēšanas Projekts
+Šis ir Māra Milliņa un Emīla Nika Donova programmēšanas projekts.
